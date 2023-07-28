@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz application</string>
+    <string name="todo">TODO</string>
+    <string name="start_btn">Start</string>
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+</resources>
