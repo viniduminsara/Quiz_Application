@@ -4,4 +4,20 @@
     <string name="start_btn">Start</string>
     <string name="true_btn">True</string>
     <string name="false_btn">False</string>
+    <string name="first_question">Hi this is the quiz app</string>
+    <string name="placeholder">TextView</string>
+    <string name="next_btn_text">Next</string>
+    <string name="prev_btn_text">Prev</string>
+    <string name="placeholder_text">Question goes here</string>
+
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_independence">Sri Lanka gained independence in the year: 1948.</string>
+    <string name="question_constitution">The supreme law of Sri Lanka is its Constitution, adopted in: 1978.</string>
+    <string name="question_amendments">The Constitution of Sri Lanka has amendments.</string>
+    <string name="question_rights">The fundamental rights enshrined in the Constitution of Sri Lanka include the right to: Freedom of Speech.</string>
+    <string name="question_religion">Freedom of religion in Sri Lanka ensures: Citizens must follow the state religion.</string>
+    <string name="question_government">In Sri Lanka, the President is a key part of the: Legislative branch.</string>
+    <string name="question_government_laws">Who is responsible for making laws at the national level in Sri Lanka? The President.</string>
+    <string name="question_government_parliament">The Parliament of Sri Lanka consists of how many members? 225.</string>
 </resources>
